@@ -1,0 +1,18 @@
+[
+	{
+		"userID": "1",
+		"userType": "payg-with-registered-card",
+		"userCtn": "07996065389",
+		"userEmail": "hdr14@yopmail.com",
+		"userPassword": "Nttdata@123",
+		"userCity": "Leeds"
+	},
+	{
+		"userID": "2",
+		"userType": "sb bill payer single ctn with dd user",
+		"userCtn": "1234",
+		"userEmail": "myeetb19.1@mailinator.com",
+		"userPassword": "Nttdata@123",
+		"UserAccountName": "MARY LIANG"
+	}
+]
